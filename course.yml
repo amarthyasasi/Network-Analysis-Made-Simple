@@ -1,0 +1,7 @@
+title: Network Analysis Fundamentals
+author_field: Eric J. Ma
+author_bio: Eric Ma is a PhD candidate in the Department of Biological Engineering at MIT. For his thesis, he developed a network statistical inference method to compute the importance of gene shuffling in viral ecology. He has taught network analysis workshops at a variety of venues, including PyCon USA, SciPy, and ODSC East.
+description: In this course, you will learn the fundamentals of network analysis. In the process, you will learn how to think through network-structured data, find paths, structures, and communities inside a graph, and apply them to new problems of your own.
+programming_language: Python 3
+difficulty_level: 2
+time_needed: 4 hours
