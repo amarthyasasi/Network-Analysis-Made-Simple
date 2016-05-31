@@ -1,0 +1,6 @@
+- chapter_title: Introduction to Networks and NetworkX
+  chapter_description: In this chapter, you will learn the basics NetworkX API calls to describe a graph.
+  exercises:
+  -   type    : VideoExercise
+      title   : Welcome to the course!
+      content : Introduction and summary of 
