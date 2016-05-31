@@ -1,0 +1,7 @@
+matplotlib
+networkx
+pandas
+hiveplot
+numpy
+jupyter
+scipy
