@@ -3,3 +3,6 @@ description: In this chapter, we will learn how to use the basic function calls 
 free_preview: yes
 attachments:
 
+--- type:NormalExercise lang:python xp:100 skills 2
+
+## NetworkX API Basics
